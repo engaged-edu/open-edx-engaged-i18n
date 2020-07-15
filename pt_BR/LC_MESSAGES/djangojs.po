@@ -4966,6 +4966,11 @@ msgid ""
 "or check your spam folder.{paragraphEnd}{paragraphStart}If you need further "
 "assistance, {anchorStart}contact technical support{anchorEnd}.{paragraphEnd}"
 msgstr ""
+"{paragraphStart}Você recebeu um e-mail de recuperação de senha em {boldStart}{email}{boldEnd}. "
+"Se este e-mail for associado à conta da {platform_name}, você receberá as instruções para recuperar sua senha."
+"{paragraphEnd}{paragraphStart}Se não receber o e-mail de recuperação de senha após 1 minuto,"
+" verifique se preencheu o endereço de e-mail corretamente,"
+"ou verifique sua caixa de spam.{paragraphEnd}"
 
 #: lms/static/js/student_account/views/LoginView.js
 msgid ""
@@ -8915,7 +8920,7 @@ msgstr "Entrar usando %(providerName)s"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid "Password assistance"
-msgstr "Supporte de Senha"
+msgstr "Recuperação de Senha"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid ""
