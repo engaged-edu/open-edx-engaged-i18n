@@ -4966,6 +4966,11 @@ msgid ""
 "or check your spam folder.{paragraphEnd}{paragraphStart}If you need further "
 "assistance, {anchorStart}contact technical support{anchorEnd}.{paragraphEnd}"
 msgstr ""
+"{paragraphStart}Você recebeu um e-mail de recuperação de senha em {boldStart}{email}{boldEnd}. "
+"Se este e-mail for associado à conta da {platform_name}, você receberá as instruções para recuperar sua senha."
+"{paragraphEnd}{paragraphStart}Se não receber o e-mail de recuperação de senha após 1 minuto,"
+" verifique se preencheu o endereço de e-mail corretamente,"
+"ou verifique sua caixa de spam.{paragraphEnd}"
 
 #: lms/static/js/student_account/views/LoginView.js
 msgid ""
@@ -5540,8 +5545,8 @@ msgstr "Mostre Menos"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js
 msgid "{total_results} result"
 msgid_plural "{total_results} results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{total_results} resultado"
+msgstr[1] "{total_results} resultados"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js
 msgid "Profile Visibility:"
@@ -8915,7 +8920,7 @@ msgstr "Entrar usando %(providerName)s"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid "Password assistance"
-msgstr "Supporte de Senha"
+msgstr "Recuperação de Senha"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid ""
@@ -9672,8 +9677,8 @@ msgstr ""
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore
 msgid "Load next {num_items} result"
 msgid_plural "Load next {num_items} results"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Carregar proximo {num_items} resultado"
+msgstr[1] "Carregar proximos {num_items} resultados"
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore
