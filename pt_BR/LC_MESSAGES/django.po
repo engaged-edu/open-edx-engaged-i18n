@@ -25730,7 +25730,7 @@ msgstr "Pedido de Acessibilidade para Acomodação "
 
 #: cms/templates/widgets/footer.html
 msgid "LMS"
-msgstr "LMS"
+msgstr "Perspectiva do Aluno"
 
 #: cms/templates/widgets/header.html
 msgid "Current Course:"
