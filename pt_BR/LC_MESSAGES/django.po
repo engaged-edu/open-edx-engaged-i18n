@@ -3145,7 +3145,10 @@ msgstr ""
 #: lms/templates/courseware/info.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 msgid "Course Handouts"
-msgstr "Apostilas do Curso"
+msgstr "Material Complementar"
+
+msgid "Complementary material"
+msgstr "Material Complementar"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""

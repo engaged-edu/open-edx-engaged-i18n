@@ -10454,7 +10454,10 @@ msgstr ""
 
 #: cms/templates/js/course_info_handouts.underscore
 msgid "Course Handouts"
-msgstr "Apostilas do Curso"
+msgstr "Material Complementar"
+
+msgid "Complementary material"
+msgstr "Material Complementar"
 
 #: cms/templates/js/course_info_handouts.underscore
 msgid "You have no handouts defined"
