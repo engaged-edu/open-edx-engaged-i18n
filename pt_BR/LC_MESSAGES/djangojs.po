@@ -8920,7 +8920,10 @@ msgstr "Entrar usando %(providerName)s"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid "Password assistance"
-msgstr "Recuperação de Senha"
+msgstr "Recuperar Senha"
+
+msgid "Password recovery"
+msgstr "Recuperar Senha"
 
 #: lms/templates/student_account/password_reset.underscore
 msgid ""
