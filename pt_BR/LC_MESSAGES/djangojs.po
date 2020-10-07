@@ -5061,7 +5061,7 @@ msgid ""
 "The name that is used for ID verification and that appears on your "
 "certificates."
 msgstr ""
-"O nome usado para verificação de ID e que aparece nos seus certificados."
+"Nome visível por todos em todo o ambiente EAD."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Country or Region of Residence"
@@ -5084,7 +5084,7 @@ msgid ""
 "The name that identifies you on {platform_name}. You cannot change your "
 "username."
 msgstr ""
-"O nome que identifica você em {platform_name}. Você não pode alterar seu "
+"O nome que identifica você no ambiente {platform_name}. Você não pode alterar seu "
 "nome de usuário."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
