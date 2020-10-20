@@ -21395,6 +21395,30 @@ msgid ""
 " Education, and Harvard Medical School"
 msgstr ""
 
+#: lms/static/js/student_account/views/account_settings.html
+msgid ""
+"Enter your Facebook username or Facebook page link. "
+"Delete the link if you want to remove it from your EAD profile"
+msgstr ""
+"Digite o nome do seu usuário (username) do Facebook ou o link para a página do seu Facebook. "
+"Delete o link se quiser removê-lo de seu perfil EAD."
+
+#: lms/static/js/student_account/views/account_settings.html
+msgid ""
+"Enter your LinkedIn username or LinkedIn page link. "
+"Delete the link if you want to remove it from your EAD profile"
+msgstr ""
+"Digite o nome do seu usuário (username) do LinkedIn ou o link para a página do seu LinkedIn. "
+"Delete o link se quiser removê-lo de seu perfil EAD."
+
+#: lms/static/js/student_account/views/account_settings.html
+msgid ""
+"Enter your Twitter username or Twitter page link. "
+"Delete the link if you want to remove it from your EAD profile"
+msgstr ""
+"Digite o nome do seu usuário (username) do Twitter ou o link para a página do seu Twitter. "
+"Delete o link se quiser removê-lo de seu perfil EAD."
+
 #: lms/templates/student_account/finish_auth.html
 msgid "Please Wait"
 msgstr "Por favor aguarde"

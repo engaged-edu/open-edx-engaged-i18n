@@ -5170,7 +5170,7 @@ msgid ""
 "edX profile."
 msgstr ""
 "Opcionalmente, conecte suas contas pessoais aos ícones de mídia social em "
-"seu perfil edX."
+"seu perfil EAD."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid " Link"
