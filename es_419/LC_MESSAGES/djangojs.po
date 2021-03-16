@@ -5084,7 +5084,7 @@ msgstr "Dirección de correo electrónico (ingresar)"
 msgid ""
 "You receive messages from {platform_name} and course teams at this address."
 msgstr ""
-"Recibe mensajes de {platform_name} y equipos del curso en esta dirección."
+"Recibe mensajes de {platform_name} en esta dirección."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Recovery Email Address"
@@ -5108,8 +5108,7 @@ msgid ""
 "The name that is used for ID verification and that appears on your "
 "certificates."
 msgstr ""
-"El nombre que es usado para la verificación de identidad y aparece en sus "
-"certificados."
+"El nombre que es usado para la verificación de identidad."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Country or Region of Residence"
@@ -5166,8 +5165,8 @@ msgid ""
 "time zone, course dates, including assignment deadlines, will be displayed "
 "in your browser's local time zone."
 msgstr ""
-"Selecciona la zona horaria para exponer las fechas del curso. Si no "
-"especificas una zona horaria, las fechas del curso, incluidas las fechas "
+"Selecciona la zona horaria para exponer las fechas del evento. Si no "
+"especificas una zona horaria, las fechas del evento, incluidas las fechas "
 "límites de tareas, serán expuestas en la zona horaria local de tu navegador."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -7774,11 +7773,11 @@ msgstr "Id de Curso"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course Start"
-msgstr "Inicio del Curso"
+msgstr "Inicio del Evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course End"
-msgstr "Finalización del curso"
+msgstr "Finalización del Evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Upgrade Deadline"

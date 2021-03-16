@@ -5036,7 +5036,7 @@ msgstr "Endereço de e-mail (Entrar)"
 msgid ""
 "You receive messages from {platform_name} and course teams at this address."
 msgstr ""
-"Você recebe mensagens de {platform_name} e de equipes do curso neste "
+"Você recebe mensagens de {platform_name} neste "
 "endereço."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -5118,8 +5118,8 @@ msgid ""
 "time zone, course dates, including assignment deadlines, will be displayed "
 "in your browser's local time zone."
 msgstr ""
-"Selecione um fuso horário para exibir as datas do curso. Caso você não "
-"selecione um fuso horário, as datas do curso, incluindo os prazos para "
+"Selecione um fuso horário para exibir as datas do evento. Caso você não "
+"selecione um fuso horário, as datas do evento, incluindo os prazos para "
 "terminar as tarefas, serão exibidas no fuso horário local do seu navegador."
 
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -7725,11 +7725,11 @@ msgstr "ID do Curso"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course Start"
-msgstr "Início do curso"
+msgstr "Início do evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course End"
-msgstr "Término do curso"
+msgstr "Término do evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Upgrade Deadline"

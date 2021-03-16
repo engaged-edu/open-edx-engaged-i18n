@@ -12150,7 +12150,7 @@ msgstr ""
 #: lms/templates/sysadmin_dashboard_gitlogs.html
 #: themes/edx.org/lms/templates/header/navbar-authenticated.html
 msgid "Courses"
-msgstr ""
+msgstr "Events"
 
 #: cms/templates/manage_users.html cms/templates/manage_users_lib.html
 #: themes/stanford-style/lms/templates/register-form.html
@@ -12507,7 +12507,7 @@ msgstr ""
 
 #: lms/templates/dashboard.html themes/edx.org/lms/templates/dashboard.html
 msgid "Search Your Courses"
-msgstr ""
+msgstr "Search your events"
 
 #: lms/templates/courseware/courseware.html lms/templates/dashboard.html
 #: themes/edx.org/lms/templates/dashboard.html
@@ -14956,7 +14956,7 @@ msgstr ""
 #: lms/templates/courseware/courseware-chromeless.html
 #: lms/templates/courseware/courseware.html
 msgid "Course Utilities"
-msgstr ""
+msgstr "Event Utilities"
 
 #: lms/templates/courseware/courseware-error.html
 msgid "Courseware"
@@ -15065,7 +15065,7 @@ msgstr ""
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 #: themes/edx.org/lms/templates/dashboard/_dashboard_course_resume.html
 msgid "Resume Course"
-msgstr ""
+msgstr "Resume Event"
 
 #: lms/templates/courseware/info.html
 msgid "View Updates in Studio"
@@ -15082,7 +15082,7 @@ msgstr ""
 #: lms/templates/courseware/info.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 msgid "Course Tools"
-msgstr ""
+msgstr "Event Tools"
 
 #: lms/templates/courseware/news.html
 msgid "News - MITx 6.002x"
@@ -16668,7 +16668,7 @@ msgstr ""
 
 #: lms/templates/header/user_dropdown.html
 msgid "Resume your last course"
-msgstr ""
+msgstr "Resume your last event"
 
 #: lms/templates/header/user_dropdown.html
 msgid "Profile"
@@ -18226,7 +18226,7 @@ msgstr ""
 #: lms/templates/learner_dashboard/_dashboard_navigation_courses.html
 #: themes/edx.org/lms/templates/dashboard.html
 msgid "My Courses"
-msgstr ""
+msgstr "My Events"
 
 #: lms/templates/learner_dashboard/text-me-fragment.html
 msgid "Get the {platform_name} Mobile App!"

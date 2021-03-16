@@ -13859,7 +13859,7 @@ msgstr "Edición del Curso:"
 #: lms/templates/navigation/bootstrap/navbar-authenticated.html
 #: themes/edx.org/lms/templates/header/navbar-authenticated.html
 msgid "Courses"
-msgstr "Cursos"
+msgstr "Eventos"
 
 #: cms/templates/manage_users.html cms/templates/manage_users_lib.html
 #: themes/stanford-style/lms/templates/register-form.html
@@ -14224,7 +14224,7 @@ msgstr "Errores en la carga del curso"
 
 #: lms/templates/dashboard.html themes/edx.org/lms/templates/dashboard.html
 msgid "Search Your Courses"
-msgstr "Busca en tus cursos"
+msgstr "Busca en tus eventos"
 
 #: lms/templates/dashboard.html lms/templates/courseware/courseware.html
 #: themes/edx.org/lms/templates/dashboard.html
@@ -17087,7 +17087,7 @@ msgstr "Material del curso {course_number}"
 #: lms/templates/courseware/courseware-chromeless.html
 #: lms/templates/courseware/courseware.html
 msgid "Course Utilities"
-msgstr "Utilidades de curso"
+msgstr "Utilidades de evento"
 
 #: lms/templates/courseware/courseware-error.html
 msgid "Courseware"
@@ -17197,7 +17197,7 @@ msgstr "¡ Bienvenido a  {course_title}!"
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 #: themes/edx.org/lms/templates/dashboard/_dashboard_course_resume.html
 msgid "Resume Course"
-msgstr "Continuar con el curso"
+msgstr "Continuar con el evento"
 
 #: lms/templates/courseware/info.html
 msgid "View Updates in Studio"
@@ -17214,7 +17214,7 @@ msgstr "Navegación de documentos"
 #: lms/templates/courseware/info.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 msgid "Course Tools"
-msgstr "Herramientas del Curso"
+msgstr "Herramientas del Evento"
 
 #: lms/templates/courseware/news.html
 msgid "News - MITx 6.002x"
@@ -19011,7 +19011,7 @@ msgstr "Instituciones"
 
 #: lms/templates/header/user_dropdown.html
 msgid "Resume your last course"
-msgstr "Reanudar su último curso"
+msgstr "Reanudar su último evento"
 
 #: lms/templates/header/user_dropdown.html
 msgid "Profile"
@@ -20785,7 +20785,7 @@ msgstr "Mostrar el estado de las tareas que usted inició para este problema."
 #: lms/templates/learner_dashboard/_dashboard_navigation_courses.html
 #: themes/edx.org/lms/templates/dashboard.html
 msgid "My Courses"
-msgstr "Mis cursos"
+msgstr "Mis eventos"
 
 #: lms/templates/learner_dashboard/text-me-fragment.html
 msgid "Get the {platform_name} Mobile App!"
