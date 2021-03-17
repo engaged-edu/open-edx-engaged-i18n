@@ -5492,7 +5492,7 @@ msgstr "MB"
 
 #: lms/static/lms/js/preview/preview_factory.js
 msgid "Course is not yet visible to students."
-msgstr "Curso ainda não está visível para os alunos."
+msgstr "Evento ainda não está visível para os alunos."
 
 #: lms/static/lms/js/preview/preview_factory.js
 msgid ""
@@ -5856,7 +5856,7 @@ msgstr "Número do evento:"
 
 #: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
 msgid "Course Run:"
-msgstr "Versão do Curso:"
+msgstr "Versão do Evento:"
 
 #: cms/static/js/features_jsx/studio/CourseOrLibraryListing.jsx
 msgid "(Read-only)"
@@ -6577,7 +6577,7 @@ msgstr "Este {parentCategory} não possui {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore
 #: cms/templates/js/partition-group-details.underscore
 msgid "Course Outline"
-msgstr "Sumário do Curso"
+msgstr "Sumário do Evento"
 
 #: cms/static/js/views/paged_container.js
 msgid "Date added"
@@ -6648,7 +6648,7 @@ msgstr "Índice do evento"
 
 #: cms/static/js/views/pages/course_outline.js
 msgid "There were errors reindexing course."
-msgstr "Houve erros ao reindexar o Curso."
+msgstr "Houve erros ao reindexar o Evento."
 
 #: cms/static/js/views/pages/paged_container.js
 msgid "Hide Previews"
@@ -7647,7 +7647,7 @@ msgstr "Nenhum resultado"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
 msgid "Course Key"
-msgstr "Chave do Curso"
+msgstr "Chave do Evento"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
 #: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
@@ -7721,7 +7721,7 @@ msgstr "Nome do usuário ou endereço de e-mail"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course ID"
-msgstr "ID do Curso"
+msgstr "ID do Evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course Start"
@@ -8513,7 +8513,7 @@ msgstr "Especifique se os tópicos de discussão serão divididos"
 
 #: lms/templates/instructor/instructor_dashboard_2/divided-discussions-course-wide.underscore
 msgid "Course-Wide Discussion Topics"
-msgstr "Tópicos de discussão do Curso Completo"
+msgstr "Tópicos de discussão do Evento Completo"
 
 #: lms/templates/instructor/instructor_dashboard_2/divided-discussions-course-wide.underscore
 msgid "Select the course-wide discussion topics that you want to divide."
@@ -8582,7 +8582,7 @@ msgstr "Visualizar evento arquivado"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "View Course"
-msgstr "Visualizar evento "
+msgstr "Visualizar evento"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "Select a session:"
@@ -9921,16 +9921,16 @@ msgstr "Detalhes do Certificado"
 #: cms/templates/js/certificate-details.underscore
 #: cms/templates/js/certificate-editor.underscore
 msgid "Course Title"
-msgstr "Título do Curso"
+msgstr "Título do Evento"
 
 #: cms/templates/js/certificate-details.underscore
 #: cms/templates/js/certificate-editor.underscore
 msgid "Course Title Override"
-msgstr "Substituição do Título do Curso"
+msgstr "Substituição do Título do Evento"
 
 #: cms/templates/js/certificate-details.underscore
 msgid "Course Number"
-msgstr "Número do Curso"
+msgstr "Número do Evento"
 
 #: cms/templates/js/certificate-details.underscore
 msgid "Course Number Override"
@@ -9970,7 +9970,7 @@ msgstr "Descrição do certificado"
 
 #: cms/templates/js/certificate-editor.underscore
 msgid "Course title"
-msgstr "Título do Curso"
+msgstr "Título do Evento"
 
 #: cms/templates/js/certificate-editor.underscore
 msgid ""
@@ -10350,7 +10350,7 @@ msgstr "Pressione Fechar para ocultar as configurações do vídeo do evento"
 
 #: cms/templates/js/course-video-settings.underscore
 msgid "Course Video Settings"
-msgstr "Configurações do Vídeo do Curso"
+msgstr "Configurações do Vídeo do Evento"
 
 #: cms/templates/js/course-video-transcript-preferences.underscore
 msgid "Transcript Turnaround"
@@ -10582,7 +10582,7 @@ msgid ""
 msgstr ""
 "Esta configuração de grupo não está em uso. Comece adicionando um "
 "experimento de conteúdo para qualquer Unidade através do {linkStart}Esboço "
-"do Curso {linkEnd}."
+"do Evento {linkEnd}."
 
 #: cms/templates/js/group-configuration-editor.underscore
 msgid "Group Configuration information"
@@ -10762,7 +10762,7 @@ msgid ""
 "In the {linkStart}Course Outline{linkEnd}, use this group to control access "
 "to a component."
 msgstr ""
-"No {linkStart}Esboço do Curso{linkEnd}, use este grupo para controlar o "
+"No {linkStart}Esboço do Evento{linkEnd}, use este grupo para controlar o "
 "acesso para um componente."
 
 #: cms/templates/js/previous-video-upload-list.underscore

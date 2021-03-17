@@ -5426,7 +5426,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "Course Starts"
-msgstr ""
+msgstr "Event Starts"
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "Don't forget to add a calendar reminder!"
@@ -5435,16 +5435,16 @@ msgstr ""
 #: lms/djangoapps/courseware/date_summary.py
 #, python-brace-format
 msgid "Course starts in {time_remaining_string} on {course_start_date}."
-msgstr ""
+msgstr "Event starts in {time_remaining_string} on {course_start_date}."
 
 #: lms/djangoapps/courseware/date_summary.py
 #, python-brace-format
 msgid "Course starts in {time_remaining_string} at {course_start_time}."
-msgstr ""
+msgstr "Event starts in {time_remaining_string} at {course_start_time}."
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "Course End"
-msgstr ""
+msgstr "Event End"
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid ""
@@ -5453,7 +5453,7 @@ msgstr ""
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "After this date, course content will be archived."
-msgstr ""
+msgstr "After this date, event content will be archived."
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid ""
@@ -12915,7 +12915,7 @@ msgstr ""
 
 #: lms/templates/preview_menu.html
 msgid "View this course as:"
-msgstr ""
+msgstr "View this event as:"
 
 #: lms/templates/preview_menu.html
 msgid "Learner"
@@ -14827,7 +14827,7 @@ msgstr ""
 #: lms/templates/shoppingcart/registration_code_receipt.html
 #: themes/edx.org/lms/templates/dashboard/_dashboard_course_resume.html
 msgid "View Course"
-msgstr ""
+msgstr "View Event"
 
 #: lms/templates/courseware/course_about.html
 msgid "Course is full"
@@ -17639,7 +17639,7 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/instructor_dashboard_2.html
 msgid "View Course in Studio"
-msgstr ""
+msgstr "View Event in Studio"
 
 #: lms/templates/instructor/instructor_dashboard_2/invalidate_registration_code_modal.html
 msgid "Enrollment Code Status"
@@ -19080,12 +19080,12 @@ msgstr ""
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 #: openedx/features/course_search/templates/course_search/course-search-fragment.html
 msgid "Search the course"
-msgstr ""
+msgstr "Search the event"
 
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 msgid "Start Course"
-msgstr ""
+msgstr "Start Event"
 
 #: lms/templates/verify_student/_verification_help.html
 msgid "Have questions?"

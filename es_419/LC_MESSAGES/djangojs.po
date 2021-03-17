@@ -6692,7 +6692,7 @@ msgstr "Haciendo visible a los estudiantes"
 
 #: cms/static/js/views/pages/course_outline.js
 msgid "Course Index"
-msgstr "Indice de Curso"
+msgstr "Indice de Evento"
 
 #: cms/static/js/views/pages/course_outline.js
 msgid "There were errors reindexing course."
@@ -7686,7 +7686,7 @@ msgstr "nombre de usuario o correo electrónico"
 
 #: lms/djangoapps/support/static/support/templates/certificates.underscore
 msgid "course id"
-msgstr "Id de Curso"
+msgstr "Id de Evento"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore
@@ -7769,7 +7769,7 @@ msgstr "Nombre de usuario o  correo electrónico"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course ID"
-msgstr "Id de Curso"
+msgstr "Id de Evento"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore
 msgid "Course Start"
@@ -8736,7 +8736,7 @@ msgstr "Explorar programas nuevos"
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore
 msgid "Course"
 msgid_plural "Courses"
-msgstr[0] "Curso"
+msgstr[0] "Evento"
 msgstr[1] "Cursos"
 
 #: lms/templates/learner_dashboard/program_card.underscore

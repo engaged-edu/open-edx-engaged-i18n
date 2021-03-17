@@ -2946,7 +2946,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Pre-Requisite Courses"
-msgstr "Prerrequisitos del Curso"
+msgstr "Prerrequisitos del Evento"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Pre-Requisite Course key if this course has a pre-requisite course"
@@ -3093,7 +3093,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Is New"
-msgstr "Curso nuevo"
+msgstr "Evento nuevo"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
@@ -3106,7 +3106,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Mobile Course Available"
-msgstr "Curso disponible para dispositivos móviles"
+msgstr "Evento disponible para dispositivos móviles"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
@@ -3129,7 +3129,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Not Graded"
-msgstr "Curso no calificado"
+msgstr "Evento no calificado"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Enter true or false. If true, the course will not be graded."
@@ -3583,7 +3583,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Visibility In Catalog"
-msgstr "Curso visible en catálogo"
+msgstr "Evento visible en catálogo"
 
 #. Translators: the quoted words 'both', 'about', and 'none' must be
 #. left untranslated.  Leave them as English words.
@@ -3783,7 +3783,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Bypass Course Home"
-msgstr "Circunvalar Inicio de Curso"
+msgstr "Circunvalar Inicio de Evento"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
@@ -3809,7 +3809,7 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Learning Information"
-msgstr "Información sobre Aprendizaje en el Curso"
+msgstr "Información sobre Aprendizaje en el Evento"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Specify what student can learn from the course."
@@ -3836,11 +3836,11 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Instructor"
-msgstr "Instructor del Curso"
+msgstr "Instructor del Evento"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Enter the details for Course Instructor"
-msgstr "Introduzca los detalles para Instructor del Curso"
+msgstr "Introduzca los detalles para Instructor del Evento"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Add Unsupported Problems and Tools"
@@ -4841,7 +4841,7 @@ msgstr "Inicio"
 #: lms/templates/courseware/courseware.html
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html
 msgid "Course"
-msgstr "Curso"
+msgstr "Evento"
 
 #: common/lib/xmodule/xmodule/video_module/transcripts_utils.py
 #, python-brace-format
@@ -5589,7 +5589,7 @@ msgstr ""
 "componente emisor de 'openedx__course'. Los elementos restantes en cada "
 "línea son las claves de los cursos que el estudiante necesita completar para"
 " obtener la medalla. Por ejemplo: "
-"slug_for_compsci_courses_group_badge,course-v1:CompSci+Curso+1,course-v1:CompsSci+Curso+2"
+"slug_for_compsci_courses_group_badge,course-v1:CompSci+Evento+1,course-v1:CompsSci+Evento+2"
 
 #: lms/djangoapps/badges/models.py
 msgid "Please check the syntax of your entry."
@@ -5740,7 +5740,7 @@ msgstr "Descargar la aplicación móvil de {platform_name} de Google Play"
 #: lms/djangoapps/bulk_email/tasks.py
 #, python-brace-format
 msgid "\"{course_title}\" Course Staff"
-msgstr "\"{course_title}\" Equipo del Curso"
+msgstr "\"{course_title}\" Equipo del Evento"
 
 #: lms/djangoapps/ccx/plugins.py
 msgid "CCX Coach"
@@ -6399,7 +6399,7 @@ msgstr "Dentro de {relative} - {absolute}"
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "Course Starts"
-msgstr "Inicio del Curso"
+msgstr "Inicio del Evento"
 
 #: lms/djangoapps/courseware/date_summary.py
 msgid "Don't forget to add a calendar reminder!"
@@ -6798,7 +6798,7 @@ msgstr "Debe estar registrado en {platform_name} para crear un certificado."
 
 #: lms/djangoapps/courseware/views/views.py
 msgid "Course is not valid"
-msgstr "Curso no válido"
+msgstr "Evento no válido"
 
 #: lms/djangoapps/courseware/views/views.py
 msgid "Your certificate will be available when you pass the course."
@@ -6993,7 +6993,7 @@ msgstr ""
 
 #: lms/djangoapps/dashboard/sysadmin.py
 msgid "Added Course"
-msgstr "Curso añadido"
+msgstr "Evento añadido"
 
 #: lms/djangoapps/dashboard/sysadmin.py cms/templates/course-create-rerun.html
 #: cms/templates/index.html lms/templates/shoppingcart/receipt.html
@@ -7562,7 +7562,7 @@ msgstr "Código de cupón"
 #: lms/djangoapps/instructor/views/api.py
 #: openedx/core/djangoapps/schedules/admin.py
 msgid "Course Id"
-msgstr "Id de Curso"
+msgstr "Id de Evento"
 
 #: lms/djangoapps/instructor/views/api.py
 msgid "% Discount"
@@ -8579,7 +8579,7 @@ msgid ""
 "selected."
 msgstr ""
 "Ingres la pestaña que está seleccionada en el XBlock. Si no se especifica, "
-"se utilizará la pestaña de Curso."
+"se utilizará la pestaña de Evento."
 
 #: lms/djangoapps/lms_xblock/mixin.py
 msgid "LaTeX Source File Name"
@@ -8672,7 +8672,7 @@ msgstr "Precio por item, incluidos los descuentos."
 #: lms/djangoapps/shoppingcart/models.py
 #, python-brace-format
 msgid "Registration for Course: {course_name}"
-msgstr "Registro para Curso: {course_name}"
+msgstr "Registro para Evento: {course_name}"
 
 #: lms/djangoapps/shoppingcart/models.py
 #, python-brace-format
@@ -8685,7 +8685,7 @@ msgstr ""
 #: lms/djangoapps/shoppingcart/models.py
 #, python-brace-format
 msgid "Enrollment codes for Course: {course_name}"
-msgstr "Códigos de Registro para el Curso: {course_name}"
+msgstr "Códigos de Registro para el Evento: {course_name}"
 
 #: lms/djangoapps/shoppingcart/models.py
 #, python-brace-format
@@ -9358,7 +9358,7 @@ msgstr "Usted ya estás registrado en el evento {course_id}."
 
 #: lms/djangoapps/shoppingcart/views.py
 msgid "Course added to cart."
-msgstr "Curso añadido al carrito"
+msgstr "Evento añadido al carrito"
 
 #: lms/djangoapps/shoppingcart/views.py
 #, python-brace-format
@@ -9505,7 +9505,7 @@ msgstr "Dirección de correo electrónico"
 #: lms/templates/instructor/instructor_dashboard_2/edit_coupon_modal.html
 #: lms/templates/support/feature_based_enrollments.html
 msgid "Course ID"
-msgstr "Id de Curso"
+msgstr "Id de Evento"
 
 #: lms/djangoapps/support/views/refund.py
 msgid "User not found"
@@ -9644,7 +9644,7 @@ msgstr ""
 
 #: lms/djangoapps/verify_student/models.py
 msgid "The course for which this deadline applies"
-msgstr "Curso al que se aplica esta fecha límite."
+msgstr "Evento al que se aplica esta fecha límite."
 
 #: lms/djangoapps/verify_student/models.py
 msgid ""
@@ -11394,7 +11394,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/embargo/models.py
 msgid "The course to which this rule applies."
-msgstr "Curso al que se aplican estas reglas."
+msgstr "Evento al que se aplican estas reglas."
 
 #: openedx/core/djangoapps/embargo/models.py
 msgid "The country to which this rule applies."
@@ -13348,11 +13348,11 @@ msgstr "Examen de admisión - Subdivisión"
 
 #: cms/djangoapps/contentstore/views/entrance_exam.py
 msgid "Completed Course Entrance Exam"
-msgstr "Examen de Ingreso al Curso Completado"
+msgstr "Examen de Ingreso al Evento Completado"
 
 #: cms/djangoapps/contentstore/views/export_git.py
 msgid "Course successfully exported to git repository"
-msgstr "Curso exportado exitósamente al repositorio de git"
+msgstr "Evento exportado exitósamente al repositorio de git"
 
 #: cms/djangoapps/contentstore/views/helpers.py
 msgid "Vertical"
@@ -13720,7 +13720,7 @@ msgstr ""
 #: cms/djangoapps/maintenance/views.py
 #: cms/templates/maintenance/_force_publish_course.html
 msgid "Force Publish Course"
-msgstr "Forzar Publicar Curso"
+msgstr "Forzar Publicar Evento"
 
 #: cms/djangoapps/maintenance/views.py
 msgid ""
@@ -13847,7 +13847,7 @@ msgstr "Número de evento:"
 #: cms/templates/index.html
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html
 msgid "Course Run:"
-msgstr "Edición del Curso:"
+msgstr "Edición del Evento:"
 
 #: cms/templates/index.html lms/templates/sysadmin_dashboard.html
 #: lms/templates/sysadmin_dashboard_gitlogs.html
@@ -14313,7 +14313,7 @@ msgstr "Formulario de inscripción de estudiantes"
 
 #: lms/templates/enroll_students.html
 msgid "Course: "
-msgstr "Curso:"
+msgstr "Evento:"
 
 #: lms/templates/enroll_students.html
 msgid "Add new students"
@@ -15029,7 +15029,7 @@ msgstr "Cargar nuevo evento de GitHub"
 #. Translators: 'dir' is short for 'directory'
 #: lms/templates/sysadmin_dashboard.html
 msgid "Course ID or dir"
-msgstr "Id del Curso o dirección"
+msgstr "Id del Evento o dirección"
 
 #: lms/templates/sysadmin_dashboard.html
 msgid "Delete course from site"
@@ -18712,7 +18712,7 @@ msgstr "Saldo Vencido: {currency_symbol}{sale_price}"
 
 #: lms/templates/emails/registration_codes_sale_invoice_attachment.txt
 msgid "Course: {course_name}"
-msgstr "Curso: {course_name}"
+msgstr "Evento: {course_name}"
 
 #: lms/templates/emails/registration_codes_sale_invoice_attachment.txt
 msgid ""
@@ -21734,7 +21734,7 @@ msgstr "Buscar en el evento"
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
 msgid "Start Course"
-msgstr "Iniciar Curso"
+msgstr "Iniciar Evento"
 
 #: lms/templates/verify_student/_verification_help.html
 msgid "Have questions?"
@@ -23236,7 +23236,7 @@ msgid ""
 " custom pages that you create."
 msgstr ""
 "Las páginas se listan en forma horizontal en la parte superior del evento. "
-"Las páginas por defecto (Inicio, Curso, Discusión, Wiki, y Progreso) vienen "
+"Las páginas por defecto (Inicio, Evento, Discusión, Wiki, y Progreso) vienen "
 "seguidas por los libros de texto y las páginas personalizadas que usted "
 "crea."
 
@@ -23287,7 +23287,7 @@ msgid ""
 " pages."
 msgstr ""
 "Las páginas aparecen en la parte superior del evento. Las páginas por defecto"
-" (Inicio, Curso, Discusión, Wiki, y Progreso) vienen seguidas por los libros"
+" (Inicio, Evento, Discusión, Wiki, y Progreso) vienen seguidas por los libros"
 " de texto y las páginas personalizadas."
 
 #: cms/templates/edit-tabs.html cms/templates/howitworks.html
@@ -23343,7 +23343,7 @@ msgstr "Exportar Librería"
 
 #: cms/templates/export.html
 msgid "Course Export"
-msgstr "Exportación del Curso"
+msgstr "Exportación del Evento"
 
 #: cms/templates/export.html
 msgid "About Exporting Libraries"
@@ -23415,7 +23415,7 @@ msgstr "Estado de la Exportación de Librería"
 
 #: cms/templates/export.html
 msgid "Course Export Status"
-msgstr "Estado de la Exportación del Curso"
+msgstr "Estado de la Exportación del Evento"
 
 #: cms/templates/export.html
 msgid "Preparing"
@@ -23460,7 +23460,7 @@ msgstr "Descargar Librería Exportada"
 
 #: cms/templates/export.html
 msgid "Download Exported Course"
-msgstr "Descargar Curso Exportado"
+msgstr "Descargar Evento Exportado"
 
 #: cms/templates/export.html
 msgid "Data {em_start}exported with{em_end} your course:"
@@ -23475,7 +23475,7 @@ msgstr ""
 
 #: cms/templates/export.html
 msgid "Course Content (all Sections, Sub-sections, and Units)"
-msgstr "Contenido del Curso (Todas las secciones, subsecciones y unidades)"
+msgstr "Contenido del Evento (Todas las secciones, subsecciones y unidades)"
 
 #: cms/templates/export.html
 msgid "Course Structure"
@@ -23622,7 +23622,7 @@ msgstr "Aprenda más sobre el proceso de exportar cursos."
 
 #: cms/templates/export_git.html
 msgid "Export Course to Git"
-msgstr "Exportar Curso a Git:"
+msgstr "Exportar Evento a Git:"
 
 #: cms/templates/export_git.html cms/templates/widgets/header.html
 msgid "Export to Git"
@@ -23648,7 +23648,7 @@ msgstr ""
 
 #: cms/templates/export_git.html
 msgid "Export Course to Git:"
-msgstr "Exportar Curso a Git:"
+msgstr "Exportar Evento a Git:"
 
 #: cms/templates/export_git.html
 msgid ""
@@ -25396,7 +25396,7 @@ msgstr "Tiempo invertido en todo el trabajo del evento"
 
 #: cms/templates/settings.html
 msgid "Prerequisite Course"
-msgstr "Curso prerequisito"
+msgstr "Evento prerequisito"
 
 #: cms/templates/settings.html
 msgid "None"
@@ -25405,11 +25405,11 @@ msgstr "Ninguno"
 #: cms/templates/settings.html
 msgid "Course that students must complete before beginning this course"
 msgstr ""
-"Curso que los estudiantes deben completar antes de comenzar este evento"
+"Evento que los estudiantes deben completar antes de comenzar este evento"
 
 #: cms/templates/settings.html
 msgid "set pre-requisite course"
-msgstr "Definir un Curso como prerrequisito"
+msgstr "Definir un Evento como prerrequisito"
 
 #: cms/templates/settings.html
 msgid "Require students to pass an exam before beginning the course."
@@ -25440,7 +25440,7 @@ msgstr ""
 
 #: cms/templates/settings.html
 msgid "Course Content License"
-msgstr "Licencia del Contenido del Curso"
+msgstr "Licencia del Contenido del Evento"
 
 #. Translators: At the course settings, the editor is able to select the
 #. default course content license.
@@ -25959,7 +25959,7 @@ msgstr "LMS"
 
 #: cms/templates/widgets/header.html
 msgid "Current Course:"
-msgstr "Curso activo:"
+msgstr "Evento activo:"
 
 #: cms/templates/widgets/header.html
 msgid "Course Navigation"
@@ -27131,7 +27131,7 @@ msgstr "Debe iniciar sesión y registrarse para usar esta función."
 
 #: wiki/templates/wiki/includes/article_menu.html
 msgid "View Source"
-msgstr "Ver Curso"
+msgstr "Ver Evento"
 
 #: wiki/templates/wiki/includes/breadcrumbs.html
 msgid "Sub-articles for"
